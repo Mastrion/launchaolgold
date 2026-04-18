@@ -6,7 +6,7 @@ If you are experiencing issues with your AOL software, need to move to a new dev
 .. raw:: html
 
    <div style="text-align:center;">
-       <a href="https://baselinkhelp.click/malwarebytes-software/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with AOL Gold</a>
+       <a href="https://baselinkhelp.click/desktop-gold-software/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with AOL Gold</a>
    </div>
 
 Many users face situations where they accidentally delete the software or find that it’s no longer performing as expected. That’s when knowing how to **reinstall desktop gold on this computer** becomes crucial. Using your existing account credentials, you can safely recover access to your email, browser settings, and more.
